@@ -30,13 +30,6 @@ NOTE:  The code is written in serialized manner and require to run step by step,
 
 ####################### ABOUT THE CODE & DEPENDENCIES #############
 
-The Zip file contains the following:
-1.	The Final Report in pdf format.
-2.	Python notebook (code file) of the project mapleSquadCode.ipynb
-3.	Four Datasets in .CSV format.
-4.	The Read Me file.
-5.	The actual submission file.
-
 
 Prerequisites:
 ·	Anaconda 
